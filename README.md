@@ -9,9 +9,9 @@ Tweet me [@josephjguerra](https://twitter.com/josephjguerra) to talk about it ðŸ
 **Problem**: Good Market market share has decreased by 8% each year. Market and user research determined the decline is most likely due to the increase in competitors' online grocery ordering and delivery products.
 
 ### Kickoff
-- Business and User Goals
-- Competitive Analysis
-- Context of Use Scenarios
+- [Business and User Goals](https://github.com/josephjguerra/good-market-interaction-design/blob/master/01BusinessAndUserGoals.pdf)
+- [Competitive Analysis](https://github.com/josephjguerra/good-market-interaction-design/blob/master/02CompetitiveAnalysisJosephJGuerra.pdf)
+- [Context of Use Scenarios](https://github.com/josephjguerra/good-market-interaction-design/blob/master/03ContextOfUseScenarios.pdf)
 
 ### Information Architecture
 - Card Sort
